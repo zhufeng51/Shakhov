@@ -1,0 +1,17 @@
+include BCs/calculatedMaxwellFvPatchField/calculatedMaxwellFvPatchFields.dep
+include BCs/maxwellWallFvsPatchField/maxwellWallFvsPatchFields.dep
+include BCs/mixedFvsPatchField/mixedFvsPatchFields.dep
+include BCs/farFieldFvsPatchField/farFieldFvsPatchFields.dep
+include BCs/farFieldFvPatchField/farFieldFvPatchFields.dep
+include BCs/symmetryModFvPatchField/symmetryModFvPatchFields.dep
+include BCs/DVMsymmetryFvsPatchField/DVMsymmetryFvsPatchFields.dep
+include BCs/zeroGradientFvsPatchField/zeroGradientFvsPatchFields.dep
+include BCs/pressureInFvPatchField/pressureInFvPatchFields.dep
+include BCs/pressureOutFvPatchField/pressureOutFvPatchFields.dep
+include discreteVelocity/discreteVelocity.dep
+include zeroBoundaryGrad/zeroBoundaryVectors.dep
+include zeroBoundaryGrad/zeroBoundaryGrads.dep
+include Venkatakrishnan/VenkatakrishnanSlopeMulti/VenkatakrishnanSlopeMulti.dep
+include Venkatakrishnan/VenkatakrishnanLimitedGrad/VenkatakrishnanLimitedGrads.dep
+include fvDVM/fvDVM.dep
+include fieldMPIreducer/fieldMPIreducer.dep

@@ -1,0 +1,18 @@
+LOCAL_OBJECTS = \
+calculatedMaxwellFvPatchFields.o\
+maxwellWallFvsPatchFields.o\
+mixedFvsPatchFields.o\
+farFieldFvsPatchFields.o\
+farFieldFvPatchFields.o\
+symmetryModFvPatchFields.o\
+DVMsymmetryFvsPatchFields.o\
+zeroGradientFvsPatchFields.o\
+pressureInFvPatchFields.o\
+pressureOutFvPatchFields.o\
+discreteVelocity.o\
+zeroBoundaryVectors.o\
+zeroBoundaryGrads.o\
+VenkatakrishnanSlopeMulti.o\
+VenkatakrishnanLimitedGrads.o\
+fvDVM.o\
+fieldMPIreducer.o
