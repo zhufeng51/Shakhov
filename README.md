@@ -11,7 +11,6 @@ This solver has been tested and verified on:
   
 # Compilation & Installation
 * of240
-Enter source directory and compile
 * cd cdugksFoam/src
 * ./Allwmake
 # Citation
