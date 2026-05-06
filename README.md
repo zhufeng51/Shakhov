@@ -15,15 +15,15 @@ Compile the solver using the provided build script
 bash
 运行
 # Load OpenFOAM environment (adjust according to your installation)
-of240
 
-# Enter source directory and compile
+of240
+```bash
+Enter source directory and compile
 cd cdugksFoam/src
 ./Allwmake
 Citation
 If you use this solver in your research or projects, please cite the corresponding paper:
-```bash
-bibtex
+
 @article{zhu2025simplified,
     title     = {{A simplified conservation flux scheme for gas kinetics based on {OpenFOAM} framework I: Shakhov model}},
     author    = {Zhu, Mengbo and Chen, Jianfeng and Li, Xiaoqiang and Zhuo, Congshan and Liu, Sha and Zhong, Chengwen},
