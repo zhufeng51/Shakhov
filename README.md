@@ -10,11 +10,11 @@ This solver has been tested and verified on:
 * OpenFOAM 6.0 (GCC compiler)
   
 # Compilation & Installation
-of240
+* of240
 Enter source directory and compile
-cd cdugksFoam/src
-./Allwmake
-Citation
+* cd cdugksFoam/src
+* ./Allwmake
+# Citation
 If you use this solver in your research or projects, please cite the corresponding paper:
 ```bash
 @article{zhu2025simplified,
