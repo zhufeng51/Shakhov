@@ -22,6 +22,7 @@ cd cdugksFoam/src
 ./Allwmake
 Citation
 If you use this solver in your research or projects, please cite the corresponding paper:
+```bash
 bibtex
 @article{zhu2025simplified,
     title     = {{A simplified conservation flux scheme for gas kinetics based on {OpenFOAM} framework I: Shakhov model}},
